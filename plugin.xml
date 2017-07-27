@@ -9,7 +9,7 @@
     <description>Cordova WKWebView Engine with HTTP Server Plugin</description>
     <license>Apache 2.0</license>
     <keywords>cordova,wkwebview,webview</keywords>
-    <repo>https://github.com/COMLINE-AG/cordova-plugins</repo>
+    <repo>https://github.com/COMLINE-AG/cordova-plugins/tree/wkwebview-engine-localhost</repo>
 
 	<engines>
         <engine name="cordova-ios" version=">=4.1.0" />
